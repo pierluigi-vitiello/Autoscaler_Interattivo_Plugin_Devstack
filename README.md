@@ -7,3 +7,9 @@ Pick your language:
 - 🇬🇧 [README-ENG.md](README-ENG.md)
 
 GitHub repository: https://github.com/pierluigi-vitiello/Autoscaler_Interattivo_Plugin_Devstack.git
+
+## Preview
+
+<p align="center">
+  <img src="IMG/Preview.png" alt="Plugin Preview" width="600">
+</p>
